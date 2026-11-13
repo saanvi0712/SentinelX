@@ -515,6 +515,10 @@ SentinelX was developed to demonstrate practical concepts in:
 The project currently contains an integrated security detection pipeline with machine learning, rule-based detection, risk scoring, threat intelligence, incident management, analytics, and a SOC-style web dashboard.
 
 
+## Contributors
+* **Saanvi** ([@saanvi0712](https://github.com))
+* **Bhavesh Upadhyay** ([@bhaveshupadhyay2007-dev](https://github.com))
+
 
 \---
 
